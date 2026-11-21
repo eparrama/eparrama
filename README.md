@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Banner de Ernesto" width="500" height="300>
+  <img src="./banner.jpg" alt="Banner de Ernesto" width="750" height="200>
 </p>  
-
-
-
-    
+   
 ## Hi there 👋 I am Ernesto  
     
 - 🔭 I’m currently working on Data Analytics graduated from TripleTen

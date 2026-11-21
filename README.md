@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Banner de Ernesto" width="50%">
+  <img src="./banner.jpg" alt="Banner de Ernesto" width="500" height="200>
 </p>  
 ## Hi there 👋 I am Ernesto  
-- 🔭 I’m currently working on Data Analytics graduated from TripleTen  
+    
+- 🔭 I’m currently working on Data Analytics graduated from TripleTen
+- 
 - 📫 How to reach me: eparrama@gmail.com linkedIn: www.linkedin.com/in/ernesto-parra-mateos-687259184  
 
 <!--
